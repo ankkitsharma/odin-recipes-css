@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(181, 226, 226);
+}
+
+h1 {
+    font-family: sans-serif;
+    color:rgb(104, 32, 32)
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+h2  {
+    font-family: sans-serif;
+    color: darkolivegreen;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+li a {
+    font-family: sans-serif;
+}
