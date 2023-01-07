@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(181, 226, 226);
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 40px;
+    color: rgb(33, 54, 54);
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+ul {
+    list-style-type: none ;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+li a {
+    color: rgb(23, 24, 99);
+    font-weight: 500;
+}
