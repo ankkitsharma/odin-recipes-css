@@ -1,1 +1,2 @@
-# odin-recipes-css
+# odin-recipes
+Basic recipe website
