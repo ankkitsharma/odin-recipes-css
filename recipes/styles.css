@@ -21,6 +21,11 @@ p {
     font-family: sans-serif;
 }
 
+.index {
+    font-family: serif;
+    color: rgb(44, 43, 43);
+}
+
 li a {
     font-family: sans-serif;
 }
